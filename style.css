@@ -157,6 +157,24 @@ ol {
   list-style: none;
 }
 
+@media (max-width: 992px){
+  .carousel-item h3{
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 768px){
+  .carousel-item h3{
+    display: none;
+  }
+  .carousel-item p {
+    display: none;
+  }
+  .carousel-item button{
+    display: none;
+  }
+}
+
 /* SECTION 2 */
 
 .ChooseUS {
