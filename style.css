@@ -248,10 +248,25 @@ ol {
 .card-img-overlay {
   padding: 40px 20px;
 }
+.card-title{
+  font-size: 34px;
+  font-weight: 600;
+  padding-top: 18px;
+}
 .card-link {
-  text-decoration: none;
   color: #fff;
-  font-size: 18px;
+  font-size: 16px;
+}
+.card-link:hover{
+  color: rgb(77, 77, 214);
+}
+@media (max-width: 768px) {
+  .card-title{
+    font-size: 28px;
+  }
+  .card-link{
+    font-size: 14px;
+  }
 }
 
 /* SECTION 4 */
