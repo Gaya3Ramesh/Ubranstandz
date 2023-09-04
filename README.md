@@ -1,4 +1,4 @@
-# Urbanstandz Real Estate Website
+# Urbanstandz
 
 ![Urbanstandz Real Estate Website Screenshot](https://github.com/Gaya3Ramesh/Ubranstandz/assets/89316721/496518b5-22c0-4ee2-9d20-3a8ef676f411)
 
